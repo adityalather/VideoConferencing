@@ -4,5 +4,3 @@
 
 
 
-
-### Please refer to the link see the video giving the demo of the app.
